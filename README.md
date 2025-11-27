@@ -29,9 +29,9 @@ now we can modify and add new files like .py, .css, .html in folder
 
 
 
-To upload this folder in github ... create new repo in git without README.md file
+#To upload this folder in github ... create new repo in git without README.md file
 <br>
-copy the new repo link
+#copy the new repo link
 <br>
 git remote add origin "link"
 <br>
