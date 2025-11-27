@@ -24,15 +24,14 @@ cd folder name
 git init - initialize git in the folder
 <br>
 
-now we can modify and add new files like .py, .css, .html in folder
+#now we can modify and add new files like .py, .css, .html in folder
 <br>
-
-
 
 #To upload this folder in github ... create new repo in git without README.md file
 <br>
 #copy the new repo link
 <br>
+
 git remote add origin "link"
 <br>
 git remote -v 
